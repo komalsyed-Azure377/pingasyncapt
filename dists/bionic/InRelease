@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: PingAsync Tool
+Label: pingasync
+Codename: bionic
+Date: Tue, 26 Nov 2019 21:31:42 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ 92347626d03fac651cb9e66ebe2a564c 728 main/binary-amd64/Packages
+ e54b9c64f9e0ce60db8e1110ee642fb2 498 main/binary-amd64/Packages.gz
+ ec23f3a2ae949953be13d4a0ea020f81 109 main/binary-amd64/Release
+SHA1:
+ e4365dd52189bacc9da9dad3a46889ac172d5d70 728 main/binary-amd64/Packages
+ b089ecda23454a128c8109403bf481f0232cb68a 498 main/binary-amd64/Packages.gz
+ 46522b7ae2e7a3f442cbd96749197d7564dd784c 109 main/binary-amd64/Release
+SHA256:
+ 5bf79e56d5af7c7c4124f84b88c9b9051052abd59e29857d1213eb1fb049f62e 728 main/binary-amd64/Packages
+ d5c14740210d5991356952e32b4cb9d40647cbbf1c42fbd579c511922310c9f2 498 main/binary-amd64/Packages.gz
+ 46ad1851e42a77d51e9c4d3932debe228b14746aaef8aeabd165252a52ec6ca3 109 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEWJtGqfuZ3NSpiKmiE482stecAf8FAl3dmcIACgkQE482stec
+Af8XkgwAgM2TQhupFxiari14jHm7oiAfSOtxsIqGHgOgplM0shJRgfsrTugidHdu
+ron/fWtl8ChTSdhxCRdY8IJ1MsVj1TgS7E+4nqOY54mYNI+hJQq7ie4XQG6gnjj1
+e7OD4n7QJ4OPMFpSWpwFckwgqwAK2z9PHzjOv6DKGW40SxGEy41A/v7f3pWYKjkA
+dGgqFipgOrY6aIAKRhoza4TESoqiSmFOwqiGmnlHTV4vIxxwb5BiK3se8sx1JkG8
+zo/y6UkushzFNoKTd1swd2CU09wUZ1YTBTU5fhLSkzrey19d3xlOWq6JtN7dcHf9
+9a34atLln+WmN+R7CaIUVfnxBKTEBBfJ6yVhy23R/bfN1/aNsciCHQCwcEJOJ2IV
+hXsfPoqWkmMhsksVAMxHwLlBW1by04SjQerau6vZ3IPXJeqPNb7qzKAzlnFCY7SS
+xwdJuMEonYO9H+t8HGlopwuiurvc75+enqUTOfUO3bFjUQ96+sOmQK0CGQzmbFva
+HXieudG9
+=rLIA
+-----END PGP SIGNATURE-----

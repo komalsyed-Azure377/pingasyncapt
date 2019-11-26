@@ -1,0 +1,7 @@
+Origin: PingAsync Tool
+Label: pingasync
+Codename: bionic
+Architectures: amd64
+Components: main
+Description: Personal repository
+SignWith: 589B46A9FB99DCD4A988A9A2138F36B2D79C01FF
